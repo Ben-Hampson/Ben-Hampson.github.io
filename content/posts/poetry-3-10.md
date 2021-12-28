@@ -1,7 +1,7 @@
 ---
 title: "Making Poetry 1.1.12 work in Python 3.10"
 date: 2021-12-28T19:31:47+01:00
-draft: true
+draft: false
 ---
 
 To make Poetry 1.1.12 work with Python 3.10 on macOS Big Sur, I needed to install the following dependencies:
