@@ -1,3 +1,9 @@
+ ---
+ title: iA Writer post
+ date: 2023-06-25T02:21:00+02:00
+ draft: false
+ ---
+
 # This is a post from iA writer
 
 This is a post introduction
