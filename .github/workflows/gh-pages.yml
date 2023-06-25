@@ -7,7 +7,7 @@ on:
   pull_request:
 
 jobs:
-  deploy:
+  build-and-deploy-static-site:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
